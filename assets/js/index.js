@@ -55,5 +55,5 @@
                 <td>${snapshot.val().trainDestination}</td>
                 <td>${snapshot.val().trainFrequency}</td>
                 <td>${nextTrain}</td>
-                <td>${timeTillTrain}</td></tr>`)
+                <td class="text-center">${timeTillTrain}</td></tr>`)
         })
