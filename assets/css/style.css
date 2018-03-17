@@ -3,13 +3,22 @@ body {
     color : white ;
 }
 
+h2 {
+    text-shadow: -1px 1px .2em rgba( 255 , 255 , 255 , 0.4 ), 1px -1px .4em rgba( 255 , 255 , 255 , 0.4 ) ;
+}
+
 .jumbotron {
     background : #222529 ;
     color : white ;
+    text-shadow: -1px 1px .2em rgba( 255 , 255 , 255 , 0.4 ), 1px -1px .4em rgba( 255 , 255 , 255 , 0.4 ) ;
 }
 
 th {
     margin: 20px;
+}
+
+.form {
+    margin: 10px ;
 }
 
 #submitTrain {
